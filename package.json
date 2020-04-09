@@ -12,6 +12,9 @@
     "@material-ui/core": "^4.9.7",
     "@material-ui/lab": "latest"
   },
+  "devDependencies": {
+
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -34,7 +37,7 @@
     ]
   },
   "engines": {
-    "node": "13.x",
+    "node": "^10.10",
     "npm": "6.x"
   }
 }
